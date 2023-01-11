@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material Container Transform</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="container_item_card">shared_elements_item_card_%d</string>
+    <string name="details">Avatar: The Way of Water is a 2022 American epic science fiction film directed and produced by James Cameron, who co-edited the film and co-wrote the screenplay with Rick Jaffa and Amanda Silver from a story the trio wrote with Josh Friedman and Shane Salerno. It is distributed by 20th Century Studios, it is the sequel to Avatar (2009) and the second installment in the Avatar film series. Cast members Sam Worthington, Zoe Saldaña, Stephen Lang, Joel David Moore, CCH Pounder, Giovanni Ribisi, Dileep Rao, and Matt Gerald reprise their roles from the original film, with Sigourney Weaver returning in an additional role.[6] New cast members include Kate Winslet, Cliff Curtis, Edie Falco, and Jemaine Clement. In the film, Na\'vi Jake Sully (Worthington) and his family, under renewed human threat, seek refuge with the Metkayina clan of Pandora.</string>
+</resources>
